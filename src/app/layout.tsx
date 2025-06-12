@@ -10,10 +10,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://vrx.health'),
+  metadataBase: new URL('https://RecoVR.health'),
   title: {
-    default: "VRx: A New Standard for Brain Health",
-    template: "%s | VRx Health"
+    default: "RecoVR: A New Standard for Brain Health",
+    template: "%s | RecoVR Health"
   },
   description: "Objective, AI-powered neurological assessment for athletes. The clarity of science, the elegance of technology. Revolutionizing concussion care through precision VR technology.",
   keywords: [
@@ -26,9 +26,9 @@ export const metadata: Metadata = {
     "athlete safety technology",
     "Johns Hopkins research"
   ],
-  authors: [{ name: "VRx Technologies Inc." }],
-  creator: "VRx Technologies Inc.",
-  publisher: "VRx Technologies Inc.",
+  authors: [{ name: "RecoVR Technologies Inc." }],
+  creator: "RecoVR Technologies Inc.",
+  publisher: "RecoVR Technologies Inc.",
   robots: {
     index: true,
     follow: true,
@@ -43,25 +43,25 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://vrx.health',
-    title: 'VRx: A New Standard for Brain Health',
+    url: 'https://RecoVR.health',
+    title: 'RecoVR: A New Standard for Brain Health',
     description: 'Objective, AI-powered neurological assessment for athletes. The clarity of science, the elegance of technology.',
-    siteName: 'VRx Health',
+    siteName: 'RecoVR Health',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'VRx - Revolutionary Brain Health Technology',
+        alt: 'RecoVR - Revolutionary Brain Health Technology',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'VRx: A New Standard for Brain Health',
+    title: 'RecoVR: A New Standard for Brain Health',
     description: 'Objective, AI-powered neurological assessment for athletes. The clarity of science, the elegance of technology.',
     images: ['/twitter-image.png'],
-    creator: '@VRxHealth',
+    creator: '@RecoVRHealth',
   },
   icons: {
     icon: '/favicon.ico',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
   },
   manifest: '/site.webmanifest',
   alternates: {
-    canonical: 'https://vrx.health',
+    canonical: 'https://RecoVR.health',
   },
   category: 'technology',
   classification: 'Medical Technology',
@@ -133,9 +133,9 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "VRx Technologies Inc.",
-              "url": "https://vrx.health",
-              "logo": "https://vrx.health/logo.png",
+              "name": "RecoVR Technologies Inc.",
+              "url": "https://RecoVR.health",
+              "logo": "https://RecoVR.health/logo.png",
               "description": "Revolutionary VR-based neurological assessment technology for athletes",
               "foundingDate": "2024",
               "founders": [
@@ -148,7 +148,7 @@ export default function RootLayout({
               "keywords": "VR, concussion assessment, brain health, sports medicine, AI",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "email": "contact@vrx.health",
+                "email": "contact@RecoVR.health",
                 "contactType": "Customer Service"
               },
               "address": {

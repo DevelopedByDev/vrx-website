@@ -21,20 +21,20 @@ export default function Footer() {
             
             <h3 className="text-headline font-extralight text-white mb-6">
               Connect with{' '}
-              <span className="gradient-text font-light">VRx</span>
+              <span className="gradient-text font-light">RecoVR</span>
               <span className="text-gray-500">.</span>
             </h3>
             
             <p className="text-body-large text-gray-400 max-w-3xl mx-auto leading-relaxed">
               Ready to bring a new standard of care to your organization? 
-              <span className="text-gray-200 font-normal"> Let's discuss how VRx can protect your athletes.</span>
+              <span className="text-gray-200 font-normal"> Let's discuss how RecoVR can protect your athletes.</span>
             </p>
           </div>
 
           {/* Contact Actions */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-12">
             <motion.a
-              href="mailto:contact@vrx.health"
+              href="mailto:contact@RecoVR.health"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-primary shadow-premium"
@@ -43,7 +43,7 @@ export default function Footer() {
             </motion.a>
             
             <motion.a
-              href="/vrx-research-overview.pdf"
+              href="/RecoVR-research-overview.pdf"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
@@ -58,10 +58,10 @@ export default function Footer() {
           <div className="glass rounded-2xl p-6 max-w-md mx-auto border border-gray-800/50">
             <p className="text-sm text-gray-400 mb-2">Direct Contact</p>
             <a
-              href="mailto:contact@vrx.health"
+              href="mailto:contact@RecoVR.health"
               className="text-lg text-primary-400 hover:text-primary-300 transition-colors duration-300 font-medium"
             >
-              contact@vrx.health
+              contact@RecoVR.health
             </a>
           </div>
         </motion.div>
@@ -111,7 +111,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <div className="text-xs text-gray-500">
-            <p>© {new Date().getFullYear()} VRx Technologies Inc.</p>
+            <p>© {new Date().getFullYear()} RecoVR Technologies Inc.</p>
             <p className="mt-1">Built at Johns Hopkins University</p>
           </div>
         </motion.div>

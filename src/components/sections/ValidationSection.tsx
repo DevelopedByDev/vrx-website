@@ -70,7 +70,7 @@ export default function ValidationSection() {
           </h2>
           
           <p className="text-body-large text-gray-400 max-w-4xl mx-auto leading-relaxed">
-            VRx isn't just innovative—it's scientifically rigorous. 
+            RecoVR isn't just innovative—it's scientifically rigorous. 
             <span className="text-gray-200 font-normal"> We provide data you can trust when it matters most.</span>
           </p>
         </motion.div>
@@ -132,7 +132,7 @@ export default function ValidationSection() {
         >
           <div className="glass rounded-2xl p-8 lg:p-10 border border-gray-800/50">
             <blockquote className="text-xl md:text-2xl font-light text-gray-300 italic leading-relaxed mb-4">
-              "VRx represents a paradigm shift in concussion assessment. 
+              "RecoVR represents a paradigm shift in concussion assessment. 
               <span className="text-white font-normal not-italic"> The level of precision and objectivity is unprecedented."</span>
             </blockquote>
             <cite className="block text-sm font-medium text-gray-500 not-italic">

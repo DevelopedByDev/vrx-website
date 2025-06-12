@@ -23,7 +23,7 @@ const teamMembers = [
     expertise: 'Clinical Validation'
   },
   { 
-    name: 'Dev Lalwani', 
+    name: 'Divyansh Lalwani', 
     title: 'Technical Co-Lead', 
     imageUrl: '/images/team/member_dev.jpg',
     expertise: 'VR Engineering'

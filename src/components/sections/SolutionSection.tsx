@@ -45,7 +45,7 @@ export default function SolutionSection() {
           </h2>
           
           <p className="text-body-large text-gray-400 max-w-4xl mx-auto leading-relaxed">
-            VRx captures thousands of objective data points—from micro-saccades to reaction time—that are invisible to the naked eye.
+            RecoVR captures thousands of objective data points—from micro-saccades to reaction time—that are invisible to the naked eye.
             <span className="text-gray-200 font-normal"> This is the digital dissection of neurological function.</span>
           </p>
         </motion.div>
