@@ -148,7 +148,7 @@ export default function RootLayout({
               "keywords": "VR, concussion assessment, brain health, sports medicine, AI",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "email": "contact@RecoVR.health",
+                "email": "shalika.subramanian@gmail.com",
                 "contactType": "Customer Service"
               },
               "address": {

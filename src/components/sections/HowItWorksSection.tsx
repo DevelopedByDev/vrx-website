@@ -94,7 +94,7 @@ export default function HowItWorksSection() {
       title: 'The Assessment',
       description:
         "Athletes complete gamified, 15-minute tests in our immersive VR environment. We establish individual baselines when healthy and compare post-injury performance.",
-      imgSrc: '/images/ui/graph-raw.png',
+      imgSrc: '/images/product/raw-clinical-validation.png',
       imgAlt: 'Raw assessment data visualization',
       features: [
         '15-minute comprehensive evaluation',
@@ -122,7 +122,7 @@ export default function HowItWorksSection() {
       title: 'The Clinical Report',
       description:
         'Clear, objective reports empower medical staff with data-driven insights, enabling confident and safe return-to-play decisions.',
-      imgSrc: '/images/ui/dashboard-metrics.png',
+      imgSrc: '/images/product/dashboard-interface.png',
       imgAlt: 'Clinical dashboard interface',
       features: [
         'Objective recovery scoring',

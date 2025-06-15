@@ -34,7 +34,7 @@ export default function Footer() {
           {/* Contact Actions */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-12">
             <motion.a
-              href="mailto:contact@RecoVR.health"
+              href="mailto:shalika.subramanian@gmail.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-primary shadow-premium"
@@ -58,10 +58,10 @@ export default function Footer() {
           <div className="glass rounded-2xl p-6 max-w-md mx-auto border border-gray-800/50">
             <p className="text-sm text-gray-400 mb-2">Direct Contact</p>
             <a
-              href="mailto:contact@RecoVR.health"
+              href="mailto:shalika.subramanian@gmail.com"
               className="text-lg text-primary-400 hover:text-primary-300 transition-colors duration-300 font-medium"
             >
-              contact@RecoVR.health
+              shalika.subramanian@gmail.com
             </a>
           </div>
         </motion.div>
